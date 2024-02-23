@@ -31,7 +31,7 @@ _"Is the vegetation in Naturpark Karwendel changing (declining or growing) over 
 This is a broad question, and you can approach it in several ways, and there is no
 definite right or wrong answer. We are more interested in your thought process and
 approach, than the actual result. Also we love some clean code and good documentation!
-We have to read it after all.
+We have to read it after all ;)
 
 ## Getting Started
 
@@ -68,4 +68,7 @@ _This section is for you to detail your project's journey. Describe your approac
 thoughts, findings, and any challenges you encountered. Don't hesitate to also describe
 things that didn't work. The more you share, the better we can understand your thought
 process and approach. Also use comments in your code to explain why you are doing
-something._
+something. You may also include an outlook and propose innovative ideas for enhancing
+vegetation change detection, such as incorporating machine learning models to predict
+future trends or suggesting the integration of additional datasets
+(e.g., soil moisture or temperature data)._
